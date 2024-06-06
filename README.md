@@ -35,9 +35,9 @@ I'm a passionate Software Architect with a knack for crafting innovative solutio
 
 #### Analytics
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/PubSub-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=googlepubsub&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=googledataflow&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Datastream](https://img.shields.io/badge/Datastream-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
@@ -51,12 +51,16 @@ I'm a passionate Software Architect with a knack for crafting innovative solutio
 
 ![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-#### Ci/CD
+#### Storage
+
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white)
+
+#### CI/CD
 
 ![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Deploy](https://img.shields.io/badge/Cloud%20Deploy-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Artifact Registry](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Source Repository](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Artifact Registry](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Source Repository](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ## 🏆 Certifications
 
