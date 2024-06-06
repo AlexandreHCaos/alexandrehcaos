@@ -26,37 +26,25 @@ I'm a passionate Software Architect with a knack for crafting innovative solutio
 
 ### ☁️ Cloud
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-
-#### Compute
-
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) \
+Compute \
 ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Kubernetes Engine](https://img.shields.io/badge/Kubernetes%20Engine-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-#### Analytics
-
+![Kubernetes Engine](https://img.shields.io/badge/Kubernetes%20Engine-4285F4?style=flat&logo=google-cloud&logoColor=white) \
+Analytics \
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=googlepubsub&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=googledataflow&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Datastream](https://img.shields.io/badge/Datastream-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-#### Serverless
-
+![Datastream](https://img.shields.io/badge/Datastream-4285F4?style=flat&logo=google-cloud&logoColor=white) \
+Serverless \
 ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![App Engine](https://img.shields.io/badge/App%20Engine-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-#### Databases
-
-![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-#### Storage
-
-![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white)
-
-#### CI/CD
-
+![App Engine](https://img.shields.io/badge/App%20Engine-4285F4?style=flat&logo=google-cloud&logoColor=white) \
+Databases \
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat&logo=google-cloud&logoColor=white) \
+Storage \
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloudstorage&logoColor=white) \
+CI/CD \
 ![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Deploy](https://img.shields.io/badge/Cloud%20Deploy-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Artifact Registry](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
